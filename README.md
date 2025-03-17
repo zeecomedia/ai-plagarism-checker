@@ -1,5 +1,3 @@
-# [Project Name]
-
 AN AI CONTENT PLAGARISM CHECKER WITH DJANGO AND PYTHON
 
 ## Installation
