@@ -2,12 +2,6 @@
 
 AN AI CONTENT PLAGARISM CHECKER WITH DJANGO AND PYTHON
 
-## Features
-
-* List your main features here
-* Bullet points work well
-* Keep it concise
-
 ## Installation
 
 ### Prerequisites
